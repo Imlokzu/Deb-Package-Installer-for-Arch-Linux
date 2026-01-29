@@ -13,8 +13,8 @@ A simple GUI application that converts and installs .deb packages on Arch Linux 
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/deb-installer.git
-cd deb-installer
+git clone https://github.com/Imlokzu/Deb-Package-Installer-for-Arch-Linux.git
+cd Deb-Package-Installer-for-Arch-Linux
 chmod +x install.sh
 ./install.sh
 ```
